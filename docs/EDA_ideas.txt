@@ -1,0 +1,9 @@
+EDA univariate:
+1. Dissect Popularity. why decreasing after 45. why peak after every 2 small peak.
+2. danceability
+
+EDA bivariate:
+1. trackgenre dotplot
+2. top genre vs other genre. compare.
+3. correlation heatmap
+4. from step 3, do further comparisons

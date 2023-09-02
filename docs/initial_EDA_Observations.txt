@@ -1,0 +1,7 @@
+EDA univariate:
+1. popularity histogram in interesting.
+2. duration_s has outliers
+3. danceability is normally distributed
+4. energy seems to be an increasing function
+5. loudness is right skewed, getting rid of outliers might make it normally distributed
+6. tempo almost has a normal curve with outliers on both end

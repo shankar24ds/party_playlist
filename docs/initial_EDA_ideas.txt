@@ -1,0 +1,11 @@
+UNIVARIATE:
+histogram and box plot for all variables except track_genre
+describe of all variables
+
+
+
+BIVARIATE:
+1. pairwise plot of all 16 variables (to get a sense of the relationship between variables)
+2. correlation heatmap
+3. relationship between track_genre and danceability
+    1. dot plot - order by mean of danceability
