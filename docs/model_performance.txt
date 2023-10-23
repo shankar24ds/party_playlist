@@ -1,0 +1,49 @@
+MODEL BUILDING(default parameters) with outliers:
+RandomForestRegressor Mean Squared Error: 0.009
+RandomForestRegressor R-squared: 0.696
+GradientBoostingRegressor Mean Squared Error: 0.012
+GradientBoostingRegressor R-squared: 0.617
+AdaBoostRegressor Mean Squared Error: 0.017
+AdaBoostRegressor R-squared: 0.441
+LinearRegression Mean Squared Error: 0.013
+LinearRegression R-squared: 0.561
+Lasso Mean Squared Error: 0.031
+Lasso R-squared: 0.002
+Ridge Mean Squared Error: 0.013
+Ridge R-squared: 0.561
+
+MODEL BUILDING(default parameters) without outliers:
+RandomForestRegressor Mean Squared Error: 0.009
+RandomForestRegressor R-squared: 0.692
+GradientBoostingRegressor Mean Squared Error: 0.011
+GradientBoostingRegressor R-squared: 0.614
+AdaBoostRegressor Mean Squared Error: 0.017
+AdaBoostRegressor R-squared: 0.440
+LinearRegression Mean Squared Error: 0.013
+LinearRegression R-squared: 0.559
+Lasso Mean Squared Error: 0.030
+Lasso R-squared: -0.000
+Ridge Mean Squared Error: 0.013
+Ridge R-squared: 0.559
+
+Considering RandomForestRegressor with outliers dataset.
+
+RandomForestRegressor with 500 estimators
+Mean Squared Error: 0.009
+R-squared: 0.698
+
+RandomForestRegressor with 1 estimator
+Mean Squared Error: 0.021
+R-squared: 0.324
+
+RandomForestRegressor with 10 estimators
+Mean Squared Error: 0.011
+R-squared: 0.659
+
+RandomForestRegressor with 50 estimator
+Mean Squared Error: 0.010
+R-squared: 0.690
+
+RandomForestRegressor with 75 estimator
+Mean Squared Error: 0.010
+R-squared: 0.693

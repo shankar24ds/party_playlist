@@ -1,0 +1,19 @@
+1. histogram and boxplot combo of continuous features
+2. bar chart of some features
+2. trackgenre dotplot
+4. Genre co-occurence
+5. correlation heatmap
+6. Scatter plot
+    1. danceability vs valence
+    2. danceability vs loudness
+    3. danceability vs energy
+    4. danceability vs time_signature
+
+    5. energy vs loudness
+    6. energy vs acousticness
+
+    7. loudness vs acousticness
+    8. loudness vs instrumentalness
+
+    9. speechiness vs explicit
+

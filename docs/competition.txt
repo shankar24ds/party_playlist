@@ -1,0 +1,2 @@
+individual correlation graph with target variable after correlation heatmap step
+quartile wise attribute and target variable, allowing to explore how danceability varies across different ranges of these attributes.

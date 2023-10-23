@@ -1,0 +1,13 @@
+Models Considered:
+1. RandomForestRegressor()
+2. GradientBoostingRegressor()
+3. AdaBoostRegressor()
+4. LinearRegression()
+5. Lasso()
+6. Ridge()
+
+We evaluate the model using the following metrics
+root_mean_squared_error
+r2 score
+
+link: https://app.datacamp.com/workspace/w/08264cb3-8676-4725-9f1b-3544c58ffcf2
